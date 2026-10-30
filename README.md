@@ -1,1 +1,1 @@
-# Veni
+# Veni Android project
